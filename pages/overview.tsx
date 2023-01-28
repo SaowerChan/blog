@@ -10,7 +10,7 @@ const Overview = () => {
     {
       content: {
         title: "摄影作品-Photo",
-        link: "https://photo.saower.com/",
+        link: "https://saower.com/",
         status: "beta",
         description: "Share, Creativity, Love , World,分享，创意，热爱，世界",
         stacks: ["Typescript", "NextJs", "React", "PostgresQL", "Graphql"],
@@ -19,7 +19,7 @@ const Overview = () => {
     {
       content: {
         title: "我的博客-Blog",
-        link: "https://blog.saower.com/",
+        link: "https://shaowei.net/",
         status: "beta",
         description: "share my something,分享技术，生活",
         stacks: [
